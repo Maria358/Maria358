@@ -9,6 +9,9 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=plastic&logo=Firebase)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=plastic&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=plastic&logo=CSS)
+![Vue.js]
+![Vuex]
+![TypeScript]
 
 ### 📫 Mail me: mlysenko358@gmail.com 
 ### 😄 Telegram: @Maannya
