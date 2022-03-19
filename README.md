@@ -12,6 +12,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue-090909?style=plastic&logo=Vue)
 ![Vuex](https://img.shields.io/badge/-Vuex-090909?style=plastic&logo=Vuex)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=plastic&logo=TypeScript)
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=plastic&logo=Flutter)
 
 ### 📫 Mail me: mlysenko358@gmail.com 
 ### 😄 Telegram: @Maannya
