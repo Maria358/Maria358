@@ -1,6 +1,5 @@
 # 👋 Hi, my name is **Maria Lysenko**!
-## I'm beginner *Front-end developer* from Dnepr.
-### Check my website: [Maria358](https://github.com/Maria358)
+## I'm a *Front-end developer* from Dnipro.
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=plastic&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=plastic&logo=React)
