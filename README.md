@@ -8,7 +8,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=plastic&logo=Firebase)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=plastic&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=plastic&logo=CSS3)
-![Vue.js](https://img.shields.io/badge/-Vue-090909?style=plastic&logo=Vue)
+![Vue.js](https://img.shields.io/badge/-VueJs-090909?style=plastic&logo=Vue)
 ![Vuex](https://img.shields.io/badge/-Vuex-090909?style=plastic&logo=Vuex)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=plastic&logo=TypeScript)
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=plastic&logo=Flutter)
